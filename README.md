@@ -30,7 +30,7 @@ Source: [Quora Dataset](https://www.kaggle.com/c/quora-question-pairs)
 
 
 ## Results
-<img src="img/ROC.jpg" width="40%" height="5%">
+<img src="img/ROC.JPG" width="40%" height="5%">
 
 
 ## Conclusion
